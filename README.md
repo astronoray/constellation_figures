@@ -2,6 +2,10 @@
 
 This repository explains how to make a map of the Western constellations (those approved by the IAU) using open-source data from [Stellarium](https://stellarium.org/) and the [HYG Database](http://www.astronexus.com/hyg) (Hipparcos, Yale Bright Star, and Gliese Catalogs). The only software used is `Python 3.9.7`. If you have comments or suggestions, please let me know! The required dependencies are: `astropy`, `numpy`, `matplotlib`, `astroquery`, `pandas`, and `adjustText`. 
 
+![Andromeda](https://github.com/astronoray/constellation_figures/assets/83091595/a46c506d-f4c8-40a9-b211-3c931f2fe6c3)
+![Gemini](https://github.com/astronoray/constellation_figures/assets/83091595/535c2bea-781a-4eab-bbff-e5d9d50cd80f)
+
+
 ## A Few Introductory Notes
 
 This project started a long time ago, and I've been working on it off and on for several years. I was heavily inspired by several different people online, and I highly suggest you go check them out. I give all due credit to them for letting me mooch off their hard work. Most of the impetus came from two different people: [Eleanor Lutz's](https://github.com/eleanorlutz) [western_constellations_atlas_of_space](https://github.com/eleanorlutz/western_constellations_atlas_of_space) here on GitHub and [Péter Pápics' Leuven Star Atlas](https://papics.eu/2017/06/the-leuven-star-atlas-making-a-publication-quality-stellar-atlas-from-scratch/) (on an indefinite hiatus). They really inspired me to complete this project and made it attainable. I cannot thank them enough!
