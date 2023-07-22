@@ -42,8 +42,8 @@ These constellations are plotted and compiled into an "Observer's Guide" (uncrea
 
 ## License
 
-**Code:** All the code in this repository is shared under the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0)
+**Code:** All the code in this repository is shared under the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0).
 
-**Data:** The data in this repository belongs to the original authors of the data. In cases where I edited or revised the data, I impose no additional restrictions to the original license. Any data files I created myself are shared under the [ODC Open Database License](https://opendatacommons.org/licenses/odbl/summary/)
+**Data:** The data in this repository belongs to the original authors of the data. In cases where I edited or revised the data, I impose no additional restrictions to the original license. Any data files I created myself are shared under the [ODC Open Database License](https://opendatacommons.org/licenses/odbl/summary/).
 
 
